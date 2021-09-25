@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 My name is Ahmed Al Hashmi. I'm a software developer.
-- 🔭 I’m currently working on developing a rapid development tool. 
+- 🔭 I’m currently working on building a rapid development tool. 
 <!--
 **hashimati/hashimati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
