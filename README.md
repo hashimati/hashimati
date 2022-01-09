@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 My name is Ahmed Al Hashmi. I'm a software developer.
-- 🔭 I’m currently working on building ![MicrostarterCli](https://www.github.com/hashimati/microstartercli). A rapid development CLI tool that generates Micronaut Components. 
+- 🔭 I’m currently working on building ![MicrostarterCli](https://github.com/hashimati/MicrostarterCli). A rapid development CLI tool that generates Micronaut Components. 
 <!--
 **hashimati/hashimati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
